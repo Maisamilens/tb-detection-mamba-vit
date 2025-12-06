@@ -219,8 +219,8 @@ If you use this code in your research, please cite:
 ```bibtex
 @article{tbdetection2025,
   title={RetinexFormer-Enhanced Mamba-ViT Hybrid Model for Pulmonary Tuberculosis Classification and Segmentation in Public Health Screening},
-  author={Your Name},
-  journal={Journal Name},
+  author={Maisam Abbas, Anam Munir, Ran-Zan Wang},
+  journal={Under Progress},
   year={2025}
 }
 ```
