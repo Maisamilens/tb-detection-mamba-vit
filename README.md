@@ -95,6 +95,7 @@ project_root/
 
 - **Classification**: [NIAID TB Portal](https://tbportals.niaid.nih.gov/) / Kaggle TB Chest X-ray Dataset
 - **Segmentation**: Montgomery County + Shenzhen Hospital datasets
+- Dataset for this paper is available at (https://drive.google.com/drive/folders/1BhSnRUF6x98MIbt_TfWc6QgRCPcj7s2h?usp=sharing)
 
 ---
 
