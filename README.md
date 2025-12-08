@@ -1,4 +1,4 @@
-# RetinexFormer-Enhanced Mamba-ViT for Pulmonary Tuberculosis Detection
+# RetinexFormer-Enhanced Mamba-ViT for Pulmonary Tuberculosis Detection, classification and segmentation
 
 A hybrid deep learning framework combining RetinexFormer image enhancement with Mamba-ViT dual-encoder architecture for automated tuberculosis classification and lung segmentation from chest X-rays.
 
